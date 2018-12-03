@@ -1,2 +1,2 @@
 # teamsheet-PWA
-Angular PWA test client for https://cat.teamsheet.com
+Angular PWA test client for cat.teamsheet.com
